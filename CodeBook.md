@@ -1,5 +1,5 @@
 ## Original data 
-### Source https://class.coursera.org/getdata-009/human_grading/view/courses/972587/assessments/3/submissions
+Source https://class.coursera.org/getdata-009/human_grading/view/courses/972587/assessments/3/submissions
 
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
 
@@ -41,71 +41,71 @@ Contains averages of *mean()* and *std()* values grouped by activity and subject
 20. Return an in-memory copy for potential processing
 
 ## Resulting columns (numbered)
- 1.	Activity
- 2.	Subject
- 3.	Timed BodyAcc Mean by X
- 4.	Timed BodyAcc Mean by Y
- 5.	Timed BodyAcc Mean by Z
- 6.	Timed BodyAcc SD by X
- 7.	Timed BodyAcc SD by Y
- 8.	Timed BodyAcc SD by Z
- 9.	Timed GravityAcc Mean by X
-10.	Timed GravityAcc Mean by Y
-11.	Timed GravityAcc Mean by Z
-12.	Timed GravityAcc SD by X
-13.	Timed GravityAcc SD by Y
-14.	Timed GravityAcc SD by Z
-15.	Timed BodyAccJerk Mean by X
-16.	Timed BodyAccJerk Mean by Y
-17.	Timed BodyAccJerk Mean by Z
-18.	Timed BodyAccJerk SD by X
-19.	Timed BodyAccJerk SD by Y
-20.	Timed BodyAccJerk SD by Z
-21.	Timed BodyGyro Mean by X
-22.	Timed BodyGyro Mean by Y
-23.	Timed BodyGyro Mean by Z
-24.	Timed BodyGyro SD by X
-25.	Timed BodyGyro SD by Y
-26.	Timed BodyGyro SD by Z
-27.	Timed BodyGyroJerk Mean by X
-28.	Timed BodyGyroJerk Mean by Y
-29.	Timed BodyGyroJerk Mean by Z
-30.	Timed BodyGyroJerk SD by X
-31.	Timed BodyGyroJerk SD by Y
-32.	Timed BodyGyroJerk SD by Z
-33.	Timed BodyAccMag Mean
-34.	Timed BodyAccMag SD
-35.	Timed GravityAccMag Mean
-36.	Timed GravityAccMag SD
-37.	Timed BodyAccJerkMag Mean
-38.	Timed BodyAccJerkMag SD
-39.	Timed BodyGyroMag Mean
-40.	Timed BodyGyroMag SD
-41.	Timed BodyGyroJerkMag Mean
-42.	Timed BodyGyroJerkMag SD
-43.	FFT BodyAcc Mean by X
-44.	FFT BodyAcc Mean by Y
-45.	FFT BodyAcc Mean by Z
-46.	FFT BodyAcc SD by X
-47.	FFT BodyAcc SD by Y
-48.	FFT BodyAcc SD by Z
-49.	FFT BodyAccJerk Mean by X
-50.	FFT BodyAccJerk Mean by Y
-51.	FFT BodyAccJerk Mean by Z
-52.	FFT BodyAccJerk SD by X
-53.	FFT BodyAccJerk SD by Y
-54.	FFT BodyAccJerk SD by Z
-55.	FFT BodyGyro Mean by X
-56.	FFT BodyGyro Mean by Y
-57.	FFT BodyGyro Mean by Z
-58.	FFT BodyGyro SD by X
-59.	FFT BodyGyro SD by Y
-60.	FFT BodyGyro SD by Z
-61.	FFT BodyAccMag Mean
-62.	FFT BodyAccMag SD
-63.	FFT BodyBodyAccJerkMag Mean
-64.	FFT BodyBodyAccJerkMag SD
-65.	FFT BodyBodyGyroMag Mean
-66.	FFT BodyBodyGyroMag SD
-67.	FFT BodyBodyGyroJerkMag Mean
-68.	FFT BodyBodyGyroJerkMag SD
+* Activity
+* Subject
+* Timed BodyAcc Mean by X
+* Timed BodyAcc Mean by Y
+* Timed BodyAcc Mean by Z
+* Timed BodyAcc SD by X
+* Timed BodyAcc SD by Y
+* Timed BodyAcc SD by Z
+* Timed GravityAcc Mean by X
+* Timed GravityAcc Mean by Y
+* Timed GravityAcc Mean by Z
+* Timed GravityAcc SD by X
+* Timed GravityAcc SD by Y
+* Timed GravityAcc SD by Z
+* Timed BodyAccJerk Mean by X
+* Timed BodyAccJerk Mean by Y
+* Timed BodyAccJerk Mean by Z
+* Timed BodyAccJerk SD by X
+* Timed BodyAccJerk SD by Y
+* Timed BodyAccJerk SD by Z
+* Timed BodyGyro Mean by X
+* Timed BodyGyro Mean by Y
+* Timed BodyGyro Mean by Z
+* Timed BodyGyro SD by X
+* Timed BodyGyro SD by Y
+* Timed BodyGyro SD by Z
+* Timed BodyGyroJerk Mean by X
+* Timed BodyGyroJerk Mean by Y
+* Timed BodyGyroJerk Mean by Z
+* Timed BodyGyroJerk SD by X
+* Timed BodyGyroJerk SD by Y
+* Timed BodyGyroJerk SD by Z
+* Timed BodyAccMag Mean
+* Timed BodyAccMag SD
+* Timed GravityAccMag Mean
+* Timed GravityAccMag SD
+* Timed BodyAccJerkMag Mean
+* Timed BodyAccJerkMag SD
+* Timed BodyGyroMag Mean
+* Timed BodyGyroMag SD
+* Timed BodyGyroJerkMag Mean
+* Timed BodyGyroJerkMag SD
+* FFT BodyAcc Mean by X
+* FFT BodyAcc Mean by Y
+* FFT BodyAcc Mean by Z
+* FFT BodyAcc SD by X
+* FFT BodyAcc SD by Y
+* FFT BodyAcc SD by Z
+* FFT BodyAccJerk Mean by X
+* FFT BodyAccJerk Mean by Y
+* FFT BodyAccJerk Mean by Z
+* FFT BodyAccJerk SD by X
+* FFT BodyAccJerk SD by Y
+* FFT BodyAccJerk SD by Z
+* FFT BodyGyro Mean by X
+* FFT BodyGyro Mean by Y
+* FFT BodyGyro Mean by Z
+* FFT BodyGyro SD by X
+* FFT BodyGyro SD by Y
+* FFT BodyGyro SD by Z
+* FFT BodyAccMag Mean
+* FFT BodyAccMag SD
+* FFT BodyBodyAccJerkMag Mean
+* FFT BodyBodyAccJerkMag SD
+* FFT BodyBodyGyroMag Mean
+* FFT BodyBodyGyroMag SD
+* FFT BodyBodyGyroJerkMag Mean
+* FFT BodyBodyGyroJerkMag SD
