@@ -40,7 +40,7 @@ Contains averages of *mean()* and *std()* values grouped by activity and subject
 19. Record resulting clean data set to a file **./cleanData.txt**
 20. Return an in-memory copy for potential processing
 
-## Resulting columns (numbered)
+## Resulting columns
 * Activity
 * Subject
 * Timed BodyAcc Mean by X
